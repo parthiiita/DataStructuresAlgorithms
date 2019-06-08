@@ -8,7 +8,6 @@ public class HeapSort {
         int n,i;
 
         Scanner scanner = new Scanner(System.in);
-
             n = scanner.nextInt();
             int[] arr = new int[n];
             for (i = 0; i < n; i++) {
