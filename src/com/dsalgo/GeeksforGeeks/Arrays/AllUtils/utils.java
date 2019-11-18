@@ -1,4 +1,4 @@
-package com.dsalgo.GeeksforGeeks.Arrays.Utils;
+package com.dsalgo.GeeksforGeeks.Arrays.AllUtils;
 
 /**
  * Created by parth.sharma on 02/06/19.

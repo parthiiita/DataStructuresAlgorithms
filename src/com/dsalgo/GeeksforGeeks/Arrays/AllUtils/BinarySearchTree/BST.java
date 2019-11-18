@@ -1,4 +1,4 @@
-package com.dsalgo.GeeksforGeeks.Arrays.Utils.BinarySearchTree;
+package com.dsalgo.GeeksforGeeks.Arrays.AllUtils.BinarySearchTree;
 
 import java.util.*;
 public class BST {

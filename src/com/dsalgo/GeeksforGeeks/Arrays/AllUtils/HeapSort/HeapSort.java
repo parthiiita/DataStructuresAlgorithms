@@ -1,4 +1,4 @@
-package com.dsalgo.GeeksforGeeks.Arrays.Utils.HeapSort;
+package com.dsalgo.GeeksforGeeks.Arrays.AllUtils.HeapSort;
 
 import java.util.*;
 public class HeapSort {

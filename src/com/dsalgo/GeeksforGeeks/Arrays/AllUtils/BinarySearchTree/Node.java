@@ -1,4 +1,4 @@
-package com.dsalgo.GeeksforGeeks.Arrays.Utils.BinarySearchTree;
+package com.dsalgo.GeeksforGeeks.Arrays.AllUtils.BinarySearchTree;
 
 /**
  * Created by parth.sharma on 02/06/19.
